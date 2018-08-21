@@ -1,6 +1,6 @@
 # PyTorch implementation of TIGraNet
 
-This project implements the TIGranet model proposed by [Khasanova and Frossard (2017)](http://proceedings.mlr.press/v70/khasanova17a.html) using the PyTorch framework.
+This project implements the TIGranet model proposed in ["Graph-based Isometry Invariant Representation Learning", R. Khasanova and P. Frossard (ICML-2017)](http://proceedings.mlr.press/v70/khasanova17a.html) using the PyTorch framework.
 
 ## Project structure
 
