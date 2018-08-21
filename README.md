@@ -100,3 +100,6 @@ Code is runnable with the following configuration:
 ## CUDA support
 
 The code can run on CUDA flawlessly without any particular modification in the code.
+
+## Authors:
+This code was implemented by Mateus Fonseca Joel <joel.fonseca@epfl.ch> and it is PyTorch re-implementation version of the original code from the paper.
